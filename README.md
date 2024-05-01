@@ -1,19 +1,33 @@
-# shopping-cart
+## Getting Started
+To run this project locally, follow these steps:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/GoatMoaz/Shopping-Cart
+    ```
+2. Navigate into the project directory:
+    ```bash
+    cd Shopping-Cart
+    ```
+3. Install dependencies using npm:
+    ```bash
+    npm install
+    ```
+4. Start the development server:
+    ```bash
+    npm run serve
+    ```
+5. Open your web browser and visit http://localhost:8080 to see the Shopping Cart in action.
 
-## Project setup
-```
-npm install
-```
+## Features
+- Basic product listing with image, name, and price
+- Add to cart functionality
+- Cart display with quantity and total price
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Technologies Used
+* Vue.js - JavaScript framework for building user interfaces
+* HTML/CSS - Structure and styling of the game
+* JavaScript - Logic for the Shopping Cart
+* Markdown - Documentation format
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Credits
+This project was created by Moaz Ayman as a simple exercise using Vue.js. Feel free to modify and extend it as you like!

@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 ## Technologies Used
 * Vue.js - JavaScript framework for building user interfaces
-* HTML/CSS - Structure and styling of the game
+* HTML/CSS - Structure and styling the cart
 * JavaScript - Logic for the Shopping Cart
 * Markdown - Documentation format
 
